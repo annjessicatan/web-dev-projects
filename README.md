@@ -7,7 +7,7 @@ A collection of my learning projects and exercises as I journey into web develop
 ### [🐱 Cat Photo App](./cat-photo-app/)
 A responsive HTML website showcasing cat photos with semantic markup.
 
-[View Live Demo](https://your-actual-netlify-link.netlify.app)
+**[View Live Site](https://jessica-catphotos.netlify.app/)**
 
 ### 🍳 Recipe Site - *Coming Soon*
 ### ✈️ Travel Agency - *Coming Soon*
