@@ -18,7 +18,7 @@ Computer Science graduate with 10+ years of customer experience, now transitioni
 ## 📫 Connect
 - GitHub: [@annjessicatan](https://github.com/annjessicatan)
 - Portfolio: *Coming Soon*
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: [annjessicatan](www.linkedin.com/in/annjessicatan)
 
 ---
 
