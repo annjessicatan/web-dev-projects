@@ -1,0 +1,119 @@
+/* Main page background - coffee beans image */
+body {
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+/* Main heading styles */
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+/* Section heading styles */
+h2 {
+  font-size: 30px;
+}
+
+/* Established date italic style */
+.established {
+  font-style: italic;
+}
+
+/* Center alignment for main text elements */
+h1, h2, p {
+  text-align: center;
+}
+
+/* Menu container styling */
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+/* Center images */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Horizontal line styling */
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+/* Additional margin for bottom line */
+.bottom-line {
+  margin-top: 25px;
+}
+
+/* Impact font for headings */
+h1, h2 {
+  font-family: Impact, serif;
+}
+
+/* Menu item paragraph styling */
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+/* Flavor/dessert name - left aligned, takes 75% width */
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+/* Price - right aligned, takes 25% width */
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/* FOOTER SECTION */
+
+/* Footer font size */
+footer {
+  font-size: 14px;
+}
+
+/* Address styling - remove default italic */
+address {
+  font-style: normal;
+}
+
+/* Address margin */
+.address {
+  margin-bottom: 5px;
+}
+
+/* Link styling */
+a {
+  color: black;
+}
+
+/* Visited link color */
+a:visited {
+  color: black;
+}
+
+/* Hover effect */
+a:hover {
+  color: brown;
+}
+
+/* Active link color */
+a:active {
+  color: brown;
+}
